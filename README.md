@@ -100,7 +100,7 @@ It is an portable adjustable power supply, using SK120X as a digitally controlle
       <td width="2%">&nbsp;</td>
       <!-- BACK SIDE CARD -->
       <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <img src="https://github.com/user-attachments/assets/3e97deab-dbab-4009-b5a8-55695aba9924" width="100%" alt="Back Side View" style="border-radius: 6px;" />
+        <img src="https://github.com/user-attachments/assets/1f069cc4-8202-4821-b598-115a8877b2e8" width="100%" alt="Back Side View" style="border-radius: 6px;" />
         <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
           ▲ Side View
         </div>
