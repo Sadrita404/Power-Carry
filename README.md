@@ -1,4 +1,76 @@
- 
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/0179d373-87a9-4997-886c-df94cc9f13ed" width="100%" max-width="800px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 500;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+|Title | Power Carry|
+|:-- |:--|
+|Author | Sadrita Neogi|
+
+
+## Overview
+It is an portable adjustable power supply, using SK120X as a digitally controlled transformer, with an output voltage of 0-36V and an output current of 0-6A
+
+<div align="center">
+  <h2> Design Sketch </h2>
+</div>
+
+---
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/68dd39a7-128e-472b-8b65-6ad15c641e45" width="100%" max-width="600px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 500;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div id="-screenshots" align="center">
+  <h3>CAD Work</h3>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/403fd2bd-fd44-43ba-9b5a-e87399f72155" width="250" alt="Full Board Layout" style="border-radius: 12px;" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/db574f9c-8870-429d-8885-49ecd04f3835" width="250" alt="Component Placement" style="border-radius: 12px;" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/86f9086e-2cba-4c49-b3f9-e10fcb1d78a6" width="250" alt="Trace Routing Detail" style="border-radius: 12px;" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/a5592ff0-13d5-4362-867d-552ed6d4974f" width="250" alt="Connection Map" style="border-radius: 12px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img width="517" height="571" alt="pic 3" src="https://github.com/user-attachments/assets/403fd2bd-fd44-43ba-9b5a-e87399f72155" />
+<img width="1330" height="760" alt="pic 5" src="https://github.com/user-attachments/assets/db574f9c-8870-429d-8885-49ecd04f3835" />
+<img width="594" height="444" alt="pic 6" src="https://github.com/user-attachments/assets/86f9086e-2cba-4c49-b3f9-e10fcb1d78a6" />
+<img width="1470" height="956" alt="pic 10" src="https://github.com/user-attachments/assets/a5592ff0-13d5-4362-867d-552ed6d4974f" />
+
+
+
+---
+<div align="center">
+  <h2>Bill of Materials</h2>
+</div>
+
+
 | Component Name | Purpose | Qty | Unit Price | Total Price | Source Link |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **M4 X 12mm** | For attaching the components | 6 | $0.025 | $0.15 | [onlyscrews](https://onlyscrews.in/products/phillips-pan-head-m4-x-12mm-pack-of-20?variant=48468564181305) |
