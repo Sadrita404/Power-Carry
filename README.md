@@ -58,11 +58,56 @@ It is an portable adjustable power supply, using SK120X as a digitally controlle
   </table>
 </div>
 
-<img width="517" height="571" alt="pic 3" src="https://github.com/user-attachments/assets/403fd2bd-fd44-43ba-9b5a-e87399f72155" />
-<img width="1330" height="760" alt="pic 5" src="https://github.com/user-attachments/assets/db574f9c-8870-429d-8885-49ecd04f3835" />
-<img width="594" height="444" alt="pic 6" src="https://github.com/user-attachments/assets/86f9086e-2cba-4c49-b3f9-e10fcb1d78a6" />
-<img width="1470" height="956" alt="pic 10" src="https://github.com/user-attachments/assets/a5592ff0-13d5-4362-867d-552ed6d4974f" />
 
+<div align="center">
+  <h2> Wiring Diagram </h2>
+</div>
+
+---
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/aeb7a1f0-74f8-4c97-8af5-eaee58f33c8b" width="100%" max-width="600px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 500;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<!-- FRONT & BACK VIEW SHOWCASE -->
+<div align="center">
+  <h2> Final Look After Assembly </h2>
+</div>
+
+---
+
+<!-- TWO-COLUMN IMAGE FRAME GRID -->
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+      <!-- FRONT SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/b241dfa5-2b2a-4c42-b536-5a949307469c" width="100%" alt="Front Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+          ▲ Front View
+        </div>
+      </td>
+      <!-- SPACER FOR GITHUB MOBILE DEGRADATION -->
+      <td width="2%">&nbsp;</td>
+      <!-- BACK SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/3e97deab-dbab-4009-b5a8-55695aba9924" width="100%" alt="Back Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+          ▲ Side View
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
