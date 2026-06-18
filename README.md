@@ -17,6 +17,7 @@
 
 ## Overview
 It is an portable adjustable power supply, using SK120X as a digitally controlled transformer, with an output voltage of 0-36V and an output current of 0-6A
+For the battery I had to go with 5300mAh otherwise it will not efficient in powering of the whole circuit.
 
 <div align="center">
   <h2> Design Sketch </h2>
