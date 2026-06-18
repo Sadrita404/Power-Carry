@@ -3,12 +3,13 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <img src="https://github.com/user-attachments/assets/0179d373-87a9-4997-886c-df94cc9f13ed" width="100%" max-width="800px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
+        <img src="https://github.com/user-attachments/assets/956be6df-429c-4d3b-8409-c85f4bebf5fd" width="100%" max-width="800px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
         <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 500;">
       </td>
     </tr>
   </table>
 </div>
+
 
 |Title | Power Carry|
 |:-- |:--|
@@ -92,7 +93,7 @@ For the battery I had to go with 5300mAh otherwise it will not efficient in powe
     <tr>
       <!-- FRONT SIDE CARD -->
       <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <img src="https://github.com/user-attachments/assets/b241dfa5-2b2a-4c42-b536-5a949307469c" width="100%" alt="Front Side View" style="border-radius: 6px;" />
+        <img src="https://github.com/user-attachments/assets/0191844c-0745-46d5-b8ff-0e37b6ef8a3d" width="100%" alt="Front Side View" style="border-radius: 6px;" />
         <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
           ▲ Front View
         </div>
@@ -101,7 +102,7 @@ For the battery I had to go with 5300mAh otherwise it will not efficient in powe
       <td width="2%">&nbsp;</td>
       <!-- BACK SIDE CARD -->
       <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <img src="https://github.com/user-attachments/assets/1f069cc4-8202-4821-b598-115a8877b2e8" width="100%" alt="Back Side View" style="border-radius: 6px;" />
+        <img src="https://github.com/user-attachments/assets/1b7c4b3d-031a-45f5-8fa6-a3382cde42a2" width="100%" alt="Back Side View" style="border-radius: 6px;" />
         <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
           ▲ Side View
         </div>
@@ -109,6 +110,8 @@ For the battery I had to go with 5300mAh otherwise it will not efficient in powe
     </tr>
   </table>
 </div>
+
+
 
 
 ---
