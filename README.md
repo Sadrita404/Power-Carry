@@ -20,6 +20,13 @@
 It is an portable adjustable power supply, using SK120X as a digitally controlled transformer, with an output voltage of 0-36V and an output current of 0-6A
 For the battery I had to go with 5300mAh otherwise it will not efficient in powering of the whole circuit.
 
+### Why I chose this project?
+So behind choosing this project, I always find it problem when I go outside like I am building something and I want to move in the power socket and it is quite not reachable from the spot where I am making the project, so it would be very accessible for me and good like if I have a portable power supply system from where I can run and test run my all my components motors, and even in power cut, it will also give stable voltage so that I can complete my work
+
+
+### How to use this project
+So to use this, it can be in various use cases, but in general, it can be used as an power supply to run electronic components, and this is mainly for the hobby grade purpose.
+
 <div align="center">
   <h2> Design Sketch </h2>
 </div>
